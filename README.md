@@ -31,5 +31,5 @@ This README will be updated as new tasks are completed throughout the internship
 
 ---
 
-## 📂 Repository Structure
+
 
